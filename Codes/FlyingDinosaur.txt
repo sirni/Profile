@@ -1,2 +1,5 @@
 Runner().tRex.groundYpos=10
 Runner().setSpeed(30)
+
+//for avoiding obstacles
+Runner.instance_.gameOver = ()=> {}
